@@ -1,0 +1,8 @@
+/home/vvk/Portfolio/C#/ipcampic/ipcampic/bin/Release/ipcampic.exe
+/home/vvk/Portfolio/C#/ipcampic/ipcampic/obj/x86/Release/ipcampic.csprojAssemblyReference.cache
+/home/vvk/Portfolio/C#/ipcampic/ipcampic/obj/x86/Release/ipcampic.csproj.CoreCompileInputs.cache
+/home/vvk/Portfolio/C#/ipcampic/ipcampic/obj/x86/Release/ipcampic.exe
+/home/vvk/Github/C#/ipcampic/ipcampic/bin/Release/ipcampic.exe
+/home/vvk/Github/C#/ipcampic/ipcampic/obj/x86/Release/ipcampic.csprojAssemblyReference.cache
+/home/vvk/Github/C#/ipcampic/ipcampic/obj/x86/Release/ipcampic.csproj.CoreCompileInputs.cache
+/home/vvk/Github/C#/ipcampic/ipcampic/obj/x86/Release/ipcampic.exe
