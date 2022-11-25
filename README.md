@@ -1,7 +1,7 @@
 <p>
-Examples of my programs written in CSharp:
+Examples of my programs written in СSparp:
 </p>
 
 <table>
-<tr><td> ipcampic </td><td> - taking photos from the IP camera </td></tr>
+<tr><td> ipcampic </td><td> - Getting pictures from IP camera</td></tr>
 </table>
